@@ -9,13 +9,10 @@ The default settings allow you to create content for the following topics:
 
 You can change the topic of the video very easily (you can find a detailed explanation in the setup guide)
 
-
 # Examples:
 https://user-images.githubusercontent.com/108469512/199299482-2e469dda-fd37-4757-9383-18189167390c.mov
 
 https://user-images.githubusercontent.com/108469512/199299646-7dc59e4b-9dc8-4983-9d46-58e14750d27d.mov
-
-see all examples here
 
 # Explanation:
 This tools goes to finance.yahoo.com and searches for articles about crypto, politics, general news and about the stock market. It uses open ai's GPT-3 to summarize the articles and synthesia to make a robot read the summary. It then edits the video by changing the format, removing the silences, adding subtitles and more.
