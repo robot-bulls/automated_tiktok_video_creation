@@ -11,8 +11,8 @@ You can change the topic of the video very easily (you can find a detailed expla
 
 
 # Examples:
-
-
+https://github.com/robinkbr/automated_tiktok_video_creation/blob/main/example%20videos/1.mp4
+https://github.com/robinkbr/automated_tiktok_video_creation/blob/main/example%20videos/2.mp4
 see all examples here
 
 # Explanation:
