@@ -11,8 +11,9 @@ You can change the topic of the video very easily (you can find a detailed expla
 
 
 # Examples:
-https://user-images.githubusercontent.com/108469512/199298996-37aed67d-2c4f-43e7-bf8b-67b609edc6de.mp4
-https://user-images.githubusercontent.com/108469512/199299076-af476bf0-b337-4372-85c8-536d4a5d5cc7.mp4
+https://user-images.githubusercontent.com/108469512/199299482-2e469dda-fd37-4757-9383-18189167390c.mov
+
+https://user-images.githubusercontent.com/108469512/199299646-7dc59e4b-9dc8-4983-9d46-58e14750d27d.mov
 
 see all examples here
 
@@ -22,7 +23,8 @@ This tools goes to finance.yahoo.com and searches for articles about crypto, pol
 It then gives the user the possibility to create variations of the videos that he wants. As of now there are 3 different types of variations. It would be very though to add more.
 
 Example of a variation:
-https://user-images.githubusercontent.com/108469512/199299152-d137b805-b4e5-410d-b37f-b4fe1f6753f6.mp4
+
+https://user-images.githubusercontent.com/108469512/199299736-e6d567bb-5000-483e-bdbf-7b4fa475b068.mov
 
 In the end you have the possibility to translate the videos and then to upload them automatically to your google drive.
 
