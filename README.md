@@ -11,8 +11,9 @@ You can change the topic of the video very easily (you can find a detailed expla
 
 
 # Examples:
-https://github.com/robinkbr/automated_tiktok_video_creation/blob/main/example%20videos/1.mp4
-https://github.com/robinkbr/automated_tiktok_video_creation/blob/main/example%20videos/2.mp4
+https://user-images.githubusercontent.com/108469512/199298996-37aed67d-2c4f-43e7-bf8b-67b609edc6de.mp4
+https://user-images.githubusercontent.com/108469512/199299076-af476bf0-b337-4372-85c8-536d4a5d5cc7.mp4
+
 see all examples here
 
 # Explanation:
@@ -21,6 +22,7 @@ This tools goes to finance.yahoo.com and searches for articles about crypto, pol
 It then gives the user the possibility to create variations of the videos that he wants. As of now there are 3 different types of variations. It would be very though to add more.
 
 Example of a variation:
+https://user-images.githubusercontent.com/108469512/199299152-d137b805-b4e5-410d-b37f-b4fe1f6753f6.mp4
 
 In the end you have the possibility to translate the videos and then to upload them automatically to your google drive.
 
